@@ -35,7 +35,7 @@ public class HellowWorld222 {
         } catch (ParseException e) {
 
         }
-        System.out.println(d);
+        System.out.print(d);
 
 
     }
