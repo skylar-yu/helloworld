@@ -36,11 +36,21 @@ public class HellowWorld222 {
 
         }
         System.out.println(d);
+
+
     }
 
     public static void  main(String [] args){
-        new HellowWorld222().method();
-        DateFormat df2 = new SimpleDateFormat("hfasfda");
+//        new HellowWorld222().method();
+//        DateFormat df2 = new SimpleDateFormat("hfasfda");
+        new JsonWorld2223().equals(null);
+        new SimpleDateFormat("yyyy");
+
+        Integer arr [] = {1,2,3};
+
+        for (Integer o : arr      ) {
+
+        }
 
     }
 /*    @Override
